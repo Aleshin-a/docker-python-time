@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  app:
+	image: python-time-app
+	container_name: python-time-container
+	restart: always

@@ -44,6 +44,3 @@
 *   `Dockerfile`: Инструкции по созданию образа Docker.
 *   `docker-compose.yml`:Конфигурация для запуска приложения с помощью Docker Compose.
 
-## License
-
-MIT License
